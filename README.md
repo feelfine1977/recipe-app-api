@@ -1,2 +1,2 @@
-# reipe-app-api
+# recipe-app-api
 Django project
